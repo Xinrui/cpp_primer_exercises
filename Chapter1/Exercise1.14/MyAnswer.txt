@@ -1,0 +1,2 @@
+for: more compact and clear, however, the variable defined in init-statement cannot be reached outside the for loop.
+If you wanna reach this variable, while loop is always a better choice.
